@@ -1,20 +1,19 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:08.993445
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:22
 #+TITLE: 焰羅王供行法次第
 #+PROPERTY: CBETA_ID T21n1290
 #+PROPERTY: ID KR6j0521
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 21, No. 1290
 #+PROPERTY: VOL 21
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6j0521_T_000-0374a>¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6j0521_T_001-0374a> ¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.1290¶
-
- 焰羅王供行法次第¶
+No. 1290¶
+焰羅王供行法次第¶
 ¶
 阿謨伽三藏撰¶
 
