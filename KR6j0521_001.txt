@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:34:08.993445
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 11:22
 #+TITLE: 焰羅王供行法次第
 #+PROPERTY: CBETA_ID T21n1290
 #+PROPERTY: ID KR6j0521
